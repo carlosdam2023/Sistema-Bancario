@@ -1,7 +1,7 @@
        IDENTIFICATION DIVISION.
         PROGRAM-ID. Sistema-Bancario.
         AUTHOR Carlos García.
-        DATE-WRITTEN 11-04-2025.
+        DATE-WRITTEN APR.04.2025
         
         ENVIRONMENT DIVISION.
         INPUT-OUTPUT SECTION.
